@@ -1,0 +1,5 @@
+{
+  "name": "Grandmaster Chess Pro",
+  "description": "A professional, feature-complete two-player chess game with complete rules including castling, en passant, and promotion, featuring a modern aesthetic and responsive design.",
+  "requestFramePermissions": []
+}
